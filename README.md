@@ -1,4 +1,4 @@
-#The 400 Mini AmigaWave and RetroWiki's Internal Functional Keyboard Project
+# The 400 Mini AmigaWave and RetroWiki's Internal Functional Keyboard Project
 
 <br>
 <img height="700" src="https://github.com/ea4gge/The400Mini_FunctionalKeyboard/blob/main/photo_2024-09-13_10-37-55.jpg"/>
