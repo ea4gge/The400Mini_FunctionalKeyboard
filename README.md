@@ -1,0 +1,11 @@
+#The 400 Mini AmigaWave and RetroWiki's Internal Functional Keyboard Project
+
+<br>
+<img height="700" src="https://github.com/ea4gge/The400Mini_FunctionalKeyboard/blob/main/photo_2024-09-13_10-37-55.jpg"/>
+
+<br>
+
+
+
+
+WIP Functional Keyboard. Waiting for the fist prototype from PCBWay --> 13/09/2024: Just received
